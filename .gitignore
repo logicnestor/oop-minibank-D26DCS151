@@ -1,0 +1,37 @@
+﻿# Java compiled files and build output
+**/*.class
+**/target/
+**/build/
+
+# Generated Java archives
+**/*.jar
+
+# Runtime data and logs
+**/*.ser
+**/*.log
+**/logs/
+
+# Generated MiniBank report
+/minibank-complete/reports/end-of-day.txt
+
+# Editor and operating-system files
+.vscode/
+**/.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+**/credentials.json
+**/secrets.json
+**/*.pem
+**/*.p12
+**/*.pfx
+**/id_rsa
+
+# Microsoft Office temporary files
+**/~$*.docx
+**/~$*.xlsx
+**/~$*.pptx

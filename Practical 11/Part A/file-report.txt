@@ -1,0 +1,10 @@
+FILE TREE REPORT
+Root: G:\OOP\Practical 11\Part A\sample-tree
+
+Name: notes.txt | Path: documents\notes.txt | Size: 18 bytes | Modified: 2026-10-20T06:59:51.290202600Z
+Name: info.txt | Path: images\info.txt | Size: 23 bytes | Modified: 2026-10-20T06:59:51.291200Z
+Name: readme.txt | Path: readme.txt | Size: 22 bytes | Modified: 2026-10-20T06:59:51.288201500Z
+
+=== SUMMARY ===
+Total files: 3
+Total size: 63 bytes
